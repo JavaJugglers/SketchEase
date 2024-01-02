@@ -1,5 +1,3 @@
-# README for SketchEase
-
 ## Introduction
 SketchEase is a digital drawing app, tailored for beginner artists. It focuses on simplifying the digital art process by providing an intuitive, user-centric interface and essential tools that cater to the needs of casual digital artists.
 
